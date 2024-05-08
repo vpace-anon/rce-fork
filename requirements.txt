@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+mujoco-py==2.1.2.14
+Metaworld @ git+ssh://git@github.com/vpace-anon/Metaworld.git@main#egg=Metaworld
+D4RL @ git+ssh://git@github.com/vpace-anon/D4RL.git@main#egg=D4RL
+mjrl @ git+ssh://git@github.com/vpace-anon/mjrl.git@main#egg=mjrl
+gin-config==0.5

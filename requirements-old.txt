@@ -1,0 +1,8 @@
+tf-agents==0.6.0
+mujoco-py
+mjrl @ git+git://github.com/aravindr93/mjrl@a38324680e76347bfc5040114017b443060b1e0d
+gin-config==0.4.0
+tensorflow==2.4.0rc0
+tensorflow-probability==0.12.1
+gym==0.12.1
+git+https://github.com/rlworkgroup/metaworld.git@dfdbc
